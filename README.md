@@ -7,7 +7,9 @@
 <h3 align="left">Where to find me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/kaan-ozen/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/kaan-ozen/"/></a>
- <a href="https://github.com/KaanOzen-mF/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="https://github.com/KaanOzen-mF/"/></a>
+<a href="https://github.com/KaanOzen-mF/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="https://github.com/KaanOzen-mF/"/></a>
+<a href="mailto:kaanozn98@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail/"/></a>
+
 </p>
 
 <h3 align="left">📋 Languages</h3>
@@ -49,5 +51,7 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">  
 </p>
 
-
+<p align="center">Have a good day! </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/smile.gif" alt="Visual Studio Code">  </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/ie.jpg" alt="Visual Studio Code">  </p>
 
