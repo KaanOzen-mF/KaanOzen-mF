@@ -4,7 +4,9 @@ Welcome to my page!
 I'm Kaan
 
 Where to find me
-Github Twitter LinkedIn https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+Github Twitter LinkedIn 
+
+
 <!--
 **KaanOzen-mF/KaanOzen-mF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
