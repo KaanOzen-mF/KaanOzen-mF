@@ -1,4 +1,5 @@
-<h1 align="center"> Hey! Nice to see you. 👋 </h1>
+<h1 align="center"> Hey! Nice to see you. <img src="https://media4.giphy.com/media/c1CLe6VoaMviQz0s6z/giphy.gif" width="30" 
+     height="30" alt="IE"> </h1>
 <h2 align="center"> Welcome to my page!
  I'm Kaan 
 </h2>
@@ -55,7 +56,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaanOzen-mF&layout=compact)](https://github.com/KaanOzen-mF/github-readme-stats)
 
 <p align="center">Have a good day! </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/smile.gif" alt="Visual Studio Code">  </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/ie.jpg" alt="Visual Studio Code">  </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/smile.gif" alt="SmileGif">  </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/ie.jpg" alt="IE">  </p>
 
 
