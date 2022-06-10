@@ -53,7 +53,7 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaanOzen-mF&layout=compact)](https://github.com/KaanOzen-mF/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/KaanOzen-mF/github-readme-stats)
 
 
 <p align="center">Have a good day! </p>
