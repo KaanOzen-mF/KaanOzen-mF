@@ -55,13 +55,10 @@
 
 <p align="center"> <img src="https://camo.githubusercontent.com/c8603029e1d7baade74d71c1823bdcdbaa61f08c2bf062a483e02e0f4ace034c/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966" alt="SmileGif">  </p>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width: 100%;">
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/ie.jpg" width="50" 
      height="50" alt="IE">  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="IE">  
      <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="IE">  
-     
-</p>
+   
 <p>
      
 
